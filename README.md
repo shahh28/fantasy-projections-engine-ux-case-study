@@ -15,4 +15,4 @@ The case study covers the system architecture, design decisions, V1 feature set,
 
 ## Author
 
-**Shah Sami Rahman** · [GitHub](https://github.com/shahh28) · [LinkedIn](https://linkedin.com/in/shah)
+**Shah Sami Rahman** · [GitHub](https://github.com/shahh28) · [LinkedIn](https://linkedin.com/in/shahrahman28)
