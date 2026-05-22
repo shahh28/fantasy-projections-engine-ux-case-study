@@ -6,7 +6,7 @@ The case study covers the system architecture, design decisions, V1 feature set,
 
 ## Case Study
 
-[View the case study here](https://shahh28.github.io/fantasy-projections-engine-ux-case-study)
+[View the case study here](https://shahh28.github.io/fantasy-projections-engine-ux-case-study/)
 
 ## Related Repos
 
